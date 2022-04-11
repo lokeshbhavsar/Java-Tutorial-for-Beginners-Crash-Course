@@ -13,7 +13,7 @@ class Pen implements Writer
 class Pencil implements Writer
 {
 	public void write()
-	{
+	{er
 		System.out.println("Im a Pencil");
 	}
 }
